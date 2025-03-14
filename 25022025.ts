@@ -36,6 +36,6 @@ class Carro {
     }
 }
 const carro = new Carro("Mitsubishi", "Lancer", 2024);
-console.log(carro.detalhes());
+console.log(carro.detalhes()); 
 
 
